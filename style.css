@@ -1,0 +1,21 @@
+.red{    
+    background-color: maroon;
+    width: 100px;
+    height: 100px;  
+    text-align: center;
+    color: azure;
+}
+.blue{    
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;  
+    text-align: center;
+    color: black;
+}
+.green{    
+    background-color: seagreen;
+    width: 100px;
+    height: 100px;  
+    text-align: center;
+    color: red;
+}

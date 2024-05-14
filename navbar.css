@@ -1,0 +1,9 @@
+ul{
+    background-color: black;
+    padding: 10px;
+}
+li{
+    color: yellow;
+    padding: 10px;
+    display: inline-block;
+}
