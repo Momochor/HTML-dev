@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(94, 20, 36);
+    color: wheat;
+}
+table, th, td {
+    border: 1px solid;
+  }
+tr:active{
+    color: whitesmoke;
+}
+html{
+    scroll-behavior: smooth;
+}
